@@ -49,6 +49,7 @@ The dataset consists of four key tables:
 ---
 ## Solution and the Project
 <a href="https://github.com/pratapmishra73/Sales_Analysis_by_using_SQL/blob/main/SQL_pizza_sales_project_PKM.pdf">Project</a>
+
 ![SQL_pizza_sales_project_PKM](https://github.com/user-attachments/assets/5626348d-990f-4c21-8f8c-0bc64f534fca)
 
 ---
