@@ -47,7 +47,8 @@ The dataset consists of four key tables:
 13. Top 3 most ordered pizza types based on revenue for each pizza category.  
 
 ---
-
+## Solution and the Project
+<a href="https://github.com/pratapmishra73/Sales_Analysis_by_using_SQL/blob/main/SQL_pizza_sales_project_PKM.pdf">Project</a>
 ## Outcomes & Learnings  
 
 - Gained insights into **revenue patterns, top-selling pizzas, and order behavior**.  
