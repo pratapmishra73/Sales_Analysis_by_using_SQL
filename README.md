@@ -11,10 +11,10 @@ The project helped me strengthen my SQL skills such as **Joins, Aggregations, Su
 
 The dataset consists of four key tables:  
 
-- **Pizzas** → (pizza_id, pizza_type_id, size, price)  
-- **Pizza_Types** → (pizza_type_id, name, category, ingredients)  
-- **Orders** → (order_id, order_date, order_time)  
-- **Order_Details** → (order_details_id, order_id, pizza_id, quantity)  
+- **Pizzas** → (pizza_id, pizza_type_id, size, price) <a href="https://github.com/pratapmishra73/Sales_Analysis_by_using_SQL/blob/main/pizzas.csv">Dataset1 </a>
+- **Pizza_Types** → (pizza_type_id, name, category, ingredients) <a href="https://github.com/pratapmishra73/Sales_Analysis_by_using_SQL/blob/main/pizza_types.csv">Dataset2 </a>
+- **Orders** → (order_id, order_date, order_time)  <a href="https://github.com/pratapmishra73/Sales_Analysis_by_using_SQL/blob/main/orders.csv">Dataset3 </a>
+- **Order_Details** → (order_details_id, order_id, pizza_id, quantity)  <a href="https://github.com/pratapmishra73/Sales_Analysis_by_using_SQL/blob/main/order_details.csv">Dataset4 </a>
 
 ---
 
